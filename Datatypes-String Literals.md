@@ -9,7 +9,12 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
+# Read string from user
+text = input("Enter a string: ")
 
+# Print the string
+print("You entered:", text)
 ## Output
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/1d2951f0-efbd-4dbc-945c-4e336e79add1" />
 
 ## Result
