@@ -15,7 +15,27 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+# Boolean values
+a = True
+b = False
+
+# Arithmetic operations
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / (a + 1))   # avoid division by zero
+
+# Boolean operations
+print("AND:", a and b)
+print("OR:", a or b)
+print("NOT a:", not a)
+print("NOT b:", not b)
+
+# Comparison
+print("a > b:", a > b)
+print("a == b:", a == b)
 
 ## Output
+<img width="1699" height="966" alt="image" src="https://github.com/user-attachments/assets/bb543114-228c-45cc-bc4a-406f3056ad1d" />
+
 ## Result
